@@ -10,13 +10,12 @@ package ca.sheridancollege.project;
  */
 public class WARPlayer extends Player{
 
+    GroupOfCards playerHand = new GroupOfCards(52);
+    GroupOfCards WarHand = new GroupOfCards(52);
+    
     public WARPlayer(String name) {
         super(name);
     }
-   
-   Player fiftyTwo = new Player();
-   Player cardSix = new Player();
-   Player cardTen = new player();
 
     @Override
     public void play() {
