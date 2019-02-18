@@ -15,7 +15,7 @@ public class WARPlayer extends Player{
     }
    
    Player fiftyTwo = new Player();
-   Player warFour = new Player();
+   Player warSix = new Player();
    Player warTen = new Player();
 
     @Override
