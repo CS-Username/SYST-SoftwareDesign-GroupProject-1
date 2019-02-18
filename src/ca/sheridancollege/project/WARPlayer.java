@@ -13,6 +13,10 @@ public class WARPlayer extends Player{
     public WARPlayer(String name) {
         super(name);
     }
+   
+   Player fiftyTwo = new Player();
+   Player warFour = new Player();
+   Player warTen = new Player();
 
     @Override
     public void play() {
