@@ -10,8 +10,8 @@ package ca.sheridancollege.project;
  */
 public class WARPlayer extends Player{
 
-    GroupOfCards playerHand = new GroupOfCards(52);
-    GroupOfCards WarHand = new GroupOfCards(52);
+    GroupOfCards playerHand = new GroupOfCards();
+    GroupOfCards playedHand = new GroupOfCards();
     
     public WARPlayer(String name) {
         super(name);

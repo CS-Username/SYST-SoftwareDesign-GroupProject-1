@@ -20,11 +20,17 @@ public class GroupOfCards
     //The group of cards, stored in an ArrayList
     private ArrayList <Card> cards;
     private int size;//the size of the grouping
+
+    /**
+     * Creates new card Grouping
+     */
+    public GroupOfCards() {
+    }
     
-    public GroupOfCards(int givenSize)
+    /*public GroupOfCards(int givenSize)
     {
         size = givenSize;
-    }
+    }*/
     
     /**
      * A method that will get the group of cards as an ArrayList
@@ -33,6 +39,27 @@ public class GroupOfCards
     public ArrayList<Card> showCards()
     {
         return cards;
+    }
+    /**
+     * This is for game comparisons that require cards from the top of a deck
+     * @return Most recent card
+     */
+    public Card getMostRecentCard (){
+        return cards.get(cards.size()-1);
+    }
+    
+    /**
+     * Adds card to group of cards
+     * @param addedCard Card added
+     */
+    public void addCard(Card addedCard){
+        cards.add(addedCard);
+        updateSize();
+    }
+    
+    //Updates size to accurate amount
+    private void updateSize(){
+        this.size = cards.size();
     }
     
     public void shuffle()
@@ -44,6 +71,7 @@ public class GroupOfCards
      * @return the size of the group of cards
      */
     public int getSize() {
+        updateSize();
         return size;
     }
 
