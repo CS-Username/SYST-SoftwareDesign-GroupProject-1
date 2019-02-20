@@ -3,6 +3,7 @@ package ca.sheridancollege.project;
 /**
  *
  * @author Nawaphan Chayopathum(Jan)
+ * @modified Cory Salmon
  */
 public class WarGame extends Game{
 
@@ -14,14 +15,9 @@ public class WarGame extends Game{
         //create the card deck and shuffle
         GroupOfCards gameDeck = new GroupOfCards();
         //Creates new unshuffled deck
-        for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 13; j++) {
-                switch (i){
-                    case 0: gameDeck.addCard(new Standard(Suit.CLUBS,/*way to add cards numerically*/); break;
-                    case 1: gameDeck.addCard(new Standard(Suit.DIAMONDS,/*way to add cards numerically*/); break;
-                    case 2: gameDeck.addCard(new Standard(Suit.HEARTS,/*way to add cards numerically*/); break;
-                    case 3: gameDeck.addCard(new Standard(Suit.SPADES,/*way to add cards numerically*/); break;
-                }
+        for (int i = 0; i < Standard.Suit.values().length; i++) {
+            for (int j = 0; j < Standard.Value.values().length; j++) {
+                gameDeck.addCard(new Standard(Standard.Suit.values()[i],Standard.Value.values()[j])); break;
             }
         }
         //shuffles deck
