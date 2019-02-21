@@ -11,7 +11,7 @@ package ca.sheridancollege.project;
 public class Standard extends Card{
 
     /**
-     * enum for suit of standard deck card
+     * enum for suit of standard deck of cards
      */
     public enum Suit {
         CLUBS,
@@ -20,7 +20,7 @@ public class Standard extends Card{
         SPADES
     }
     /**
-     * enum for value of standard deck card
+     * enum for value of standard deck of cards
      */
     public enum Value {
         ACE (12),
