@@ -11,6 +11,7 @@ import java.util.ArrayList;
  * The class that models your game. You should create a more specific
  * child of this class and instantiate the methods given.
  * @author dancye, 2018
+ * @modified by Nawaphan Chayopathum(Jan)
  */
 public abstract class Game 
 {
@@ -48,6 +49,14 @@ public abstract class Game
     }
     
     /**
+     * Add player to the list of players
+     * @param player the player created in Game subclasses
+     */
+    public void addPlayer(Player player){
+        players.add(player);
+    }
+    
+    /**
      * Play the game. This might be one method or many method calls depending
      * on your game.
      */
@@ -59,6 +68,9 @@ public abstract class Game
      */
     public abstract void declareWinner();
 
-   
-    
+    @Override
+    public String toString() {
+        return "Game{" + "gameName=" + gameName + ", players=" + players + '}';
+    }
+
 }//end class
