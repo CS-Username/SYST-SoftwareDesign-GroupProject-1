@@ -3,15 +3,19 @@ package ca.sheridancollege.project;
 import java.util.Scanner;
 
 /**
- *
+ * This class models the war game rule.
+ * 
  * @author Nawaphan Chayopathum(Jan)
  * @modified Cory Salmon
  */
 public class WarGame extends Game{
     
-    WarPlayer player1;
-    WarPlayer player2;
+    private WarPlayer player1;
+    private WarPlayer player2;
 
+    /**
+     * Constructor to create the player with the user input.
+     */
     public WarGame() {
         super("War Game");
         //create new player
@@ -26,7 +30,7 @@ public class WarGame extends Game{
      * To get user input of player's name
      * @return String name of Player
      */
-    public String userInput(){
+    private String userInput(){
         Scanner scan = new Scanner(System.in);
         String name;
         do {
@@ -39,8 +43,10 @@ public class WarGame extends Game{
     
     /**
      * The preparation of War Game
+     * Create the card deck and shuffle the deck.
+     * Deal the card to the players.
      */
-    public void prepareWarGame(){
+    private void prepareWarGame(){
         //create the card deck
         GroupOfCards gameDeck = new GroupOfCards();
         //creates new unshuffled deck
@@ -65,7 +71,7 @@ public class WarGame extends Game{
     /**
      * Main models of playing war game included
      * Normal Turn for War Game (one-on-one turn)
-     * War will be invoked from here
+     * War will be invoked from here if both player play the card with same value.
      */
     @Override
     public void play() { 
@@ -93,22 +99,27 @@ public class WarGame extends Game{
     
     /**
      * Winner collect all the cards in that round
+     * 
      * @param winner the player who has higher value
      * @param card1 the card from player1
      * @param card2 the card from player2
      */
-    public void winRound(WarPlayer winner, Card card1, Card card2) {
+    private void winRound(WarPlayer winner, Card card1, Card card2) {
         winner.collectCard(card1);
         winner.collectCard(card2);
         printCheckPlayer();
     }
 
     /**
-     * Main models of war
+     * Main models of war game.
+     * First, check if both player have enough cards to play the war.
+     * If not, we have the winner and end the war.
+     * Otherwise, play the war, the player that have higher value win the war.
+     * 
      * @param c1 card from player1 with the same rank as player2
      * @param c2 card from player2 with the same rank as player1
      */
-    public void war(Card c1, Card c2){
+    private void war(Card c1, Card c2){
         // group of cards for war
         GroupOfCards warCards = new GroupOfCards();
         Card card1 = c1;
@@ -158,12 +169,12 @@ public class WarGame extends Game{
     }
     
     /**
-     * transfer the remaining cards to winner
+     * Transfer the remaining cards to winner.
      * @param winner the player who has enough cards to continue war
      * @param loser the player who doesn't have enough cards to continue war
      * @param warCards the group of card for war game
      */
-    public void transferAllCards(WarPlayer winner, WarPlayer loser, GroupOfCards warCards) {
+    private void transferAllCards(WarPlayer winner, WarPlayer loser, GroupOfCards warCards) {
         winner.collectCards(warCards);
         while (loser.numberOfCards() != 0) {
             winner.collectCard(loser.playCard());
@@ -171,16 +182,17 @@ public class WarGame extends Game{
     }
 
     /**
-     * check if the players have enough cards to continue the game
-     * @param n minimum number of card player need to have
-     * @return true if both players have enough cards
+     * Check if the players have enough cards to continue the game.
+     * @param n minimum number of card the player need to have
+     * @return true if both players have enough cards; otherwise false
      */
-    public boolean hasCard(int n){
+    private boolean hasCard(int n){
         return player1.numberOfCards() >= n && player2.numberOfCards() >= n;
     }
 
     /**
-     * declare winner after the game end
+     * Declare winner after the game end.
+     * The winner is the one who has all the 52 cards in their hand.
      */
     @Override
     public void declareWinner() {
@@ -188,7 +200,10 @@ public class WarGame extends Game{
         System.out.println("The Winner is : " + winner);
     }
 
-    public void printCheckPlayer() {
+    /**
+     * Check the cards that each player has.
+     */
+    private void printCheckPlayer() {
         System.out.println(player1);
         System.out.println(player2);
     }    
