@@ -18,38 +18,47 @@ public abstract class Game
     private final String gameName;//the title of the game
     private ArrayList <Player> players;// the players of the game
     
-    public Game(String givenName)
-    {
+    /**
+     * Constructor of game with given name
+     * 
+     * @param givenName the name of the game
+     */
+    public Game(String givenName){
         gameName = givenName;
         players = new ArrayList();
     }
 
     /**
+     * Retrieve the game name
+     * 
      * @return the gameName
      */
-    public String getGameName() 
-    {
+    public String getGameName(){
         return gameName;
     }
     
-     /**
+    /**
+     * Retrieve the player
+     * 
      * @return the players of this game
      */
-    public ArrayList <Player> getPlayers() 
-    {
-        return players;
+    public ArrayList <Player> getPlayers(){
+        ArrayList<Player> copyPlayers = new ArrayList<>(players);
+        return copyPlayers;
     }
 
     /**
+     * Set the player
+     * 
      * @param players the players of this game
      */
-    public void setPlayers(ArrayList <Player> players) 
-    {
+    public void setPlayers(ArrayList <Player> players){
         this.players = players;
     }
     
     /**
      * Add player to the list of players
+     * 
      * @param player the player created in Game subclasses
      */
     public void addPlayer(Player player){

@@ -1,7 +1,8 @@
 package ca.sheridancollege.project;
 
 /**
- *
+ * Test Game
+ * 
  * @author Nawaphan Chayopathum(Jan)
  */
 public class WarTest {

@@ -25,7 +25,7 @@ public class GroupOfCards
     /**
      * Creates new card Grouping
      */
-    public GroupOfCards() {
+    public GroupOfCards(){
         cards = new ArrayList<>();
     }
     

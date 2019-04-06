@@ -1,7 +1,3 @@
-/*
-   
-*/
-
 package ca.sheridancollege.project;
 /**
  * 
