@@ -8,63 +8,71 @@ package ca.sheridancollege.project;
 import java.util.ArrayList;
 
 /**
- * The class that models your game. You should create a more specific
- * child of this class and instantiate the methods given.
+ * The class that models your game. You should create a more specific child of
+ * this class and instantiate the methods given.
+ *
  * @author dancye, 2018
  * @modified by Nawaphan Chayopathum(Jan)
+ * @modified by Cory Salmon (Commenting)
  */
-public abstract class Game 
-{
+public abstract class Game {
+
     private final String gameName;//the title of the game
-    private ArrayList <Player> players;// the players of the game
-    
-    public Game(String givenName)
-    {
+    private ArrayList<Player> players;// the players of the game
+
+    /**
+     * Constructor for all games with the name of the game
+     *
+     * @param givenName The name of the game
+     */
+    public Game(String givenName) {
         gameName = givenName;
         players = new ArrayList();
     }
 
     /**
-     * @return the gameName
+     * Retrieves the name of the game
+     *
+     * @return The name of the game
      */
-    public String getGameName() 
-    {
+    public String getGameName() {
         return gameName;
-    }
-    
-     /**
-     * @return the players of this game
-     */
-    public ArrayList <Player> getPlayers() 
-    {
-        return players;
     }
 
     /**
-     * @param players the players of this game
+     * Retrieves the players of the game
+     *
+     * @return the players of this game
      */
-    public void setPlayers(ArrayList <Player> players) 
-    {
+    public ArrayList<Player> getPlayers() {
+        return players;//todo: encapsulate
+    }
+
+    /**
+     * Sets the players of the game
+     *
+     * @param players the players of the game
+     */
+    public void setPlayers(ArrayList<Player> players) {
         this.players = players;
     }
-    
+
     /**
-     * Add player to the list of players
-     * @param player the player created in Game subclasses
+     * Adds player to the list of players
+     *
+     * @param player the player added
      */
-    public void addPlayer(Player player){
+    public void addPlayer(Player player) {
         players.add(player);
     }
-    
+
     /**
-     * Play the game. This might be one method or many method calls depending
-     * on your game.
+     * This abstract method is where the game logic will be
      */
     public abstract void play();
-    
+
     /**
-     * When the game is over, use this method to declare and display a winning
-     * player.
+     * When the game is over, use this method to declare the winner
      */
     public abstract void declareWinner();
 
