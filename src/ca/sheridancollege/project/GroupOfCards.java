@@ -14,6 +14,7 @@ import java.util.Collections;
  * The group of cards has a maximum size attribute which is flexible for reuse.
  * @author dancye
  * @modified by Nawaphan Chayopathum(Jan)
+ * @modified by Cory Salmon
  */
 public class GroupOfCards 
 {
@@ -23,7 +24,7 @@ public class GroupOfCards
     private int size;//the size of the grouping
 
     /**
-     * Creates new card Grouping
+     * Creates new card Grouping instance
      */
     public GroupOfCards() {
         cards = new ArrayList<>();
@@ -37,11 +38,11 @@ public class GroupOfCards
 //    {
 //        return cards;
 //    }
+    
     /**
      * This is for game comparisons that require cards from the top of a deck
      * @return Most recent card
      */
-    
     public Card getMostRecentCard (){
         Card card = cards.remove(cards.size() - 1);
         updateSize();
@@ -57,6 +58,10 @@ public class GroupOfCards
         updateSize();
     }
     
+    /**
+     * Adds GroupsOfCards type cards to the currentGroupOfCards
+     * @param groupOfCards the group of cards to be added
+     */
     public void addCards(GroupOfCards groupOfCards){
         while(groupOfCards.getSize() > 0){
             addCard(groupOfCards.getMostRecentCard());
@@ -68,12 +73,16 @@ public class GroupOfCards
         this.size = cards.size();
     }
     
+    /**
+     * Shuffles the cards inside the group of cards
+     */
     public void shuffle()
     {
         Collections.shuffle(cards);
     }
 
     /**
+     * Retrieves the size of the deck
      * @return the size of the group of cards
      */
     public int getSize() {
@@ -81,11 +90,18 @@ public class GroupOfCards
         return size;
     }
     
+    /**
+     * Clears the deck (GroupOfCards)
+     */
     public void clear(){
         cards.clear();
         updateSize();
     }
 
+    /**
+     * Returns information about the current deck (GroupOfCards)
+     * @return information about the current deck (GroupOfCards)
+     */
     @Override
     public String toString() {
         return "GroupOfCards{" + "cards=" + cards + ", size=" + size + '}';
