@@ -1,14 +1,11 @@
-/*
-    Name: Cory Salmon
-    Assignment:
-    Program: PROG24178/Object Oriented Programming 2: Java
-    Date:
-    Description:
-*/
-
 package ca.sheridancollege.project;
 
-public class Standard extends Card{
+/**
+ * This class models a standard deck of cards with all 52 cards but no Jokers
+ *
+ * @author Cory Salmon
+ */
+public class Standard extends Card {
 
     /**
      * enum for suit of standard deck card
@@ -19,11 +16,12 @@ public class Standard extends Card{
         HEARTS,
         SPADES
     }
+
     /**
      * enum for value of standard deck card
      */
     public enum Value {
-        ACE (12),
+        ACE(12),
         TWO(0),
         THREE(1),
         FOUR(2),
@@ -36,7 +34,7 @@ public class Standard extends Card{
         JACK(9),
         QUEEN(10),
         KING(11);
-        
+
         private final int numericalValue;
 
         private Value(int numericalValue) {
@@ -47,12 +45,13 @@ public class Standard extends Card{
             return numericalValue;
         }
     }
-    
+
     private final Suit suit;
     private final Value value;
 
-    /** Creation of card using enums Value and Suit
-     * 
+    /**
+     * Creation of card using enums Value and Suit
+     *
      * @param suit Suit of card
      * @param value Value of card
      */
@@ -60,30 +59,33 @@ public class Standard extends Card{
         this.suit = suit;
         this.value = value;
     }
-    
+
     /**
-     * Returns the Suit and Value of the card in sentence form [Value] of [Suits]
-     * 
+     * Returns the Suit and Value of the card in sentence form [Value] of
+     * [Suits]
+     *
      * @return String suit and value of card
      */
     @Override
-    public String toString(){
+    public String toString() {
         return this.suit.name() + " of " + this.value.name();
     }
+
     /**
      * Overrides comparedTo to compare Standard card to parameter Standard card
+     * using card value
+     *
      * @param otherCard Standard card to be compared
-     * @return Comparison
+     * @return Comparison The result of the comparison inline with other
+     * compareTo methods
      */
     @Override
     public int compareTo(Card otherCard) {
-        if (this.value.getNumericalValue() == ((Standard)otherCard).value.getNumericalValue()) {
+        if (this.value.getNumericalValue() == ((Standard) otherCard).value.getNumericalValue()) {
             return 0;
-        }
-        else if (this.value.getNumericalValue() > ((Standard)otherCard).value.getNumericalValue()) {
+        } else if (this.value.getNumericalValue() > ((Standard) otherCard).value.getNumericalValue()) {
             return 1;
-        }
-        else {
+        } else {
             return -1;
         }
     }

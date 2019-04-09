@@ -1,11 +1,3 @@
-/*
-    Name: Cory Salmon
-    Assignment:
-    Program: PROG24178/Object Oriented Programming 2: Java
-    Date:
-    Description:
-*/
-
 package ca.sheridancollege.project;
 
 public class Uno extends Card{
