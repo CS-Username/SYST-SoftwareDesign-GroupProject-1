@@ -14,6 +14,7 @@ import static org.junit.Assert.*;
  * A class to test the methods in Standard
  * 
  * @author Nawaphan (Jan)
+ * @modified Cory Salmon (Just one line in this case)
  */
 public class StandardTest {
     
