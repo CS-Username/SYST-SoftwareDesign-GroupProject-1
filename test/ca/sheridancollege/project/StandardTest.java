@@ -45,7 +45,7 @@ public class StandardTest {
     public void testToString_Good() {
         System.out.println("toString");
         Standard instance = new Standard(CLUBS, ACE);
-        String expResult = "CLUBS of ACE";
+        String expResult = "ACE of CLUBS";
         String result = instance.toString();
         assertEquals(expResult, result);
     }
