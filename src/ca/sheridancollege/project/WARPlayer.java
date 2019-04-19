@@ -1,32 +1,36 @@
 package ca.sheridancollege.project;
+
 /**
+ * This class models a player of WarGame.
  * @author Cory Salmon
  * @modified by Nawaphan Chayopathum(Jan)
  * @modified by Samuel Sousa
  */
 public class WARPlayer extends Player{
 
+
     private GroupOfCards playerHand; //Player's hand of cards
     private GroupOfCards playedHand; //Cards played
+
     
    /**
-    * Construct a player's playerHand and playedHand 
+    * Constructs a player's playerHand and playedHand for the player and intializes them.
     * 
-    * @param name name of player
+    * @param name name of player.
     */
     public WARPlayer(String name) {
         super(name);
         playerHand = new GroupOfCards();
-        playedHand = new GroupOfCards();
+        playerPile = new GroupOfCards();
     }
 
    /**
-    * Playing a card
+    * Plays the most recent card from the players hand If there are no cards it
+    * add more cards to the playerHand, then returns the most recent card. Returns null if no conditions are met.
     * 
-    * @return the most recent card, unless there is no cards then
-    * add more cards to the playerHand, then return the most recent card
+    * @return the most recent card from the players hand.
     * 
-    * If no conditions are met return null
+
     */
     public Card playCard() {
         if (playerHand.getSize() > 0) {
@@ -39,50 +43,50 @@ public class WARPlayer extends Player{
     }
     
    /**
-    * Add a card to the playedHand
+    * Adds a card to the playedHand.
     * 
-    * @param card card to be added to the playerHand
+    * @param card card to be added to the playerHand.
     */
     public void collectCard(Card card){
-        playedHand.addCard(card);
+        playerPile.addCard(card);
     }
     
    /**
-    * Add an entire group of cards to playedHand
+    * Adds an entire group of cards to playedHand.
     * 
-    * @param groupOfCard a group of cards which will be added
+    * @param groupOfCard group of cards which will be added.
     */
     public void collectCards(GroupOfCards groupOfCard){
-        playedHand.addCards(groupOfCard);
+        playerPile.addCards(groupOfCard);
     }
     
     /**
-     * Add the pile of of cards played to the player's playerHand
+     * Adds the pile of of cards played to the player's playerHand.
      */
     public void changeGroupOfCards(){
         //change pile
-        playerHand.addCards(playedHand); 
+        playerHand.addCards(playerPile); 
         //clear the pile that already change
-        playedHand.clear();
+        playerPile.clear();
     }
     
     /**
-     * Check the number of cards in a player's playerHand and playedHand
+     * Checks the number of cards in a player's playerHand and playedHand.
      * 
-     * @return the sum of the size of playerHand and playedHand
+     * @return the sum of the size of playerHand and playedHand.
      */
     public int numberOfCards(){
-        return playerHand.getSize() + playedHand.getSize();
+        return playerHand.getSize() + playerPile.getSize();
     }
 
     /**
-     * Print a WARplayer's player id, playedHand and playerHand
+     * Retrieves this WARplayer's player id, playedHand and playerPile in one string.
      * 
-     * @return playerID, playerHand & playedHand
+     * @return player id, playedHand and playerPile
      */
     @Override
     public String toString() {
-        return getPlayerID() + " WarPlayer{" + "playerHand=" + playerHand + ", playedHand=" + playedHand + '}';
+        return getPlayerID() + "'s Current Hand:\n\u001B[34m" + playerHand + "\u001B[0m\n" + getPlayerID() + "'s Current Pile:\n\u001B[35m"+playerPile+"\u001B[0m";
     }
     
 }
