@@ -1,5 +1,9 @@
 package ca.sheridancollege.project;
 
+/**
+ * This is an unfinished class representing Uno cards.
+ * @author Cory Salmon (991526849)
+ */
 public class Uno extends Card{
     /**
      * Unfinished

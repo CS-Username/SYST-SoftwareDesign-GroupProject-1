@@ -68,7 +68,7 @@ public class Standard extends Card {
      */
     @Override
     public String toString() {
-        return this.suit.name() + " of " + this.value.name();
+        return this.value.name() + " of " + this.suit.name();
     }
 
     /**
