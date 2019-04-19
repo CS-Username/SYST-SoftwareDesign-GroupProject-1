@@ -1,0 +1,2206 @@
+Player 1 Enter Your Name: 
+111
+Player 2 Enter Your Name: 
+222
+--------------------------------------------------
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+26 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, SIX of HEARTS, QUEEN of DIAMONDS, NINE of SPADES, TWO of SPADES, THREE of HEARTS, KING of SPADES, EIGHT of SPADES, FOUR of HEARTS, EIGHT of DIAMONDS, FIVE of CLUBS, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+26 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, TEN of CLUBS, ACE of CLUBS, FIVE of SPADES, TWO of HEARTS, SEVEN of SPADES, NINE of HEARTS, TWO of DIAMONDS, ACE of SPADES, SEVEN of CLUBS, SIX of CLUBS, 
+222's Current Pile:
+0 Cards:
+Empty
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of CLUBS
+222 has placed down SIX of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+25 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, SIX of HEARTS, QUEEN of DIAMONDS, NINE of SPADES, TWO of SPADES, THREE of HEARTS, KING of SPADES, EIGHT of SPADES, FOUR of HEARTS, EIGHT of DIAMONDS, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+25 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, TEN of CLUBS, ACE of CLUBS, FIVE of SPADES, TWO of HEARTS, SEVEN of SPADES, NINE of HEARTS, TWO of DIAMONDS, ACE of SPADES, SEVEN of CLUBS, 
+222's Current Pile:
+2 Cards:
+FIVE of CLUBS, SIX of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of DIAMONDS
+222 has placed down SEVEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+24 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, SIX of HEARTS, QUEEN of DIAMONDS, NINE of SPADES, TWO of SPADES, THREE of HEARTS, KING of SPADES, EIGHT of SPADES, FOUR of HEARTS, 
+111's Current Pile:
+2 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, 
+222's Current Hand:
+24 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, TEN of CLUBS, ACE of CLUBS, FIVE of SPADES, TWO of HEARTS, SEVEN of SPADES, NINE of HEARTS, TWO of DIAMONDS, ACE of SPADES, 
+222's Current Pile:
+2 Cards:
+FIVE of CLUBS, SIX of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FOUR of HEARTS
+222 has placed down ACE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+23 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, SIX of HEARTS, QUEEN of DIAMONDS, NINE of SPADES, TWO of SPADES, THREE of HEARTS, KING of SPADES, EIGHT of SPADES, 
+111's Current Pile:
+2 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, 
+222's Current Hand:
+23 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, TEN of CLUBS, ACE of CLUBS, FIVE of SPADES, TWO of HEARTS, SEVEN of SPADES, NINE of HEARTS, TWO of DIAMONDS, 
+222's Current Pile:
+4 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of SPADES
+222 has placed down TWO of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+22 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, SIX of HEARTS, QUEEN of DIAMONDS, NINE of SPADES, TWO of SPADES, THREE of HEARTS, KING of SPADES, 
+111's Current Pile:
+4 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+22 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, TEN of CLUBS, ACE of CLUBS, FIVE of SPADES, TWO of HEARTS, SEVEN of SPADES, NINE of HEARTS, 
+222's Current Pile:
+4 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down KING of SPADES
+222 has placed down NINE of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+21 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, SIX of HEARTS, QUEEN of DIAMONDS, NINE of SPADES, TWO of SPADES, THREE of HEARTS, 
+111's Current Pile:
+6 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, 
+222's Current Hand:
+21 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, TEN of CLUBS, ACE of CLUBS, FIVE of SPADES, TWO of HEARTS, SEVEN of SPADES, 
+222's Current Pile:
+4 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of HEARTS
+222 has placed down SEVEN of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+20 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, SIX of HEARTS, QUEEN of DIAMONDS, NINE of SPADES, TWO of SPADES, 
+111's Current Pile:
+6 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, 
+222's Current Hand:
+20 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, TEN of CLUBS, ACE of CLUBS, FIVE of SPADES, TWO of HEARTS, 
+222's Current Pile:
+6 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of SPADES
+222 has placed down TWO of HEARTS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down NINE of SPADES
+222 has placed down FIVE of SPADES
+War turn 2 : 
+111 has placed down QUEEN of DIAMONDS
+222 has placed down ACE of CLUBS
+War turn 3 : 
+111 has placed down SIX of HEARTS
+222 has placed down TEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+16 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, SEVEN of HEARTS, 
+111's Current Pile:
+6 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, 
+222's Current Hand:
+16 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, TEN of SPADES, 
+222's Current Pile:
+14 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SEVEN of HEARTS
+222 has placed down TEN of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+15 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, EIGHT of HEARTS, 
+111's Current Pile:
+6 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, 
+222's Current Hand:
+15 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, TEN of HEARTS, 
+222's Current Pile:
+16 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of HEARTS
+222 has placed down TEN of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+14 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, TEN of DIAMONDS, 
+111's Current Pile:
+6 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, 
+222's Current Hand:
+14 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, THREE of DIAMONDS, 
+222's Current Pile:
+18 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of DIAMONDS
+222 has placed down THREE of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+13 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, SEVEN of DIAMONDS, JACK of SPADES, JACK of DIAMONDS, ACE of HEARTS, 
+111's Current Pile:
+8 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, 
+222's Current Hand:
+13 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, FOUR of DIAMONDS, EIGHT of CLUBS, TWO of CLUBS, ACE of DIAMONDS, 
+222's Current Pile:
+18 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of HEARTS
+222 has placed down ACE of DIAMONDS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down JACK of DIAMONDS
+222 has placed down TWO of CLUBS
+War turn 2 : 
+111 has placed down JACK of SPADES
+222 has placed down EIGHT of CLUBS
+War turn 3 : 
+111 has placed down SEVEN of DIAMONDS
+222 has placed down FOUR of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+9 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, QUEEN of CLUBS, 
+111's Current Pile:
+16 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, 
+222's Current Hand:
+9 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, SIX of SPADES, 
+222's Current Pile:
+18 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down QUEEN of CLUBS
+222 has placed down SIX of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+8 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, KING of DIAMONDS, 
+111's Current Pile:
+18 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, QUEEN of CLUBS, SIX of SPADES, 
+222's Current Hand:
+8 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, NINE of CLUBS, 
+222's Current Pile:
+18 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down KING of DIAMONDS
+222 has placed down NINE of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+7 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, FIVE of DIAMONDS, 
+111's Current Pile:
+20 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, QUEEN of CLUBS, SIX of SPADES, KING of DIAMONDS, NINE of CLUBS, 
+222's Current Hand:
+7 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, NINE of DIAMONDS, 
+222's Current Pile:
+18 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of DIAMONDS
+222 has placed down NINE of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+6 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, FOUR of SPADES, 
+111's Current Pile:
+20 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, QUEEN of CLUBS, SIX of SPADES, KING of DIAMONDS, NINE of CLUBS, 
+222's Current Hand:
+6 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, KING of CLUBS, 
+222's Current Pile:
+20 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, FIVE of DIAMONDS, NINE of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FOUR of SPADES
+222 has placed down KING of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+5 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, SIX of DIAMONDS, 
+111's Current Pile:
+20 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, QUEEN of CLUBS, SIX of SPADES, KING of DIAMONDS, NINE of CLUBS, 
+222's Current Hand:
+5 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, JACK of CLUBS, 
+222's Current Pile:
+22 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, FIVE of DIAMONDS, NINE of DIAMONDS, FOUR of SPADES, KING of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SIX of DIAMONDS
+222 has placed down JACK of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, JACK of HEARTS, 
+111's Current Pile:
+20 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, QUEEN of CLUBS, SIX of SPADES, KING of DIAMONDS, NINE of CLUBS, 
+222's Current Hand:
+4 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, FOUR of CLUBS, 
+222's Current Pile:
+24 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, FIVE of DIAMONDS, NINE of DIAMONDS, FOUR of SPADES, KING of CLUBS, SIX of DIAMONDS, JACK of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down JACK of HEARTS
+222 has placed down FOUR of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+3 Cards:
+FIVE of HEARTS, QUEEN of SPADES, THREE of CLUBS, 
+111's Current Pile:
+22 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, QUEEN of CLUBS, SIX of SPADES, KING of DIAMONDS, NINE of CLUBS, JACK of HEARTS, FOUR of CLUBS, 
+222's Current Hand:
+3 Cards:
+THREE of SPADES, QUEEN of HEARTS, KING of HEARTS, 
+222's Current Pile:
+24 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, FIVE of DIAMONDS, NINE of DIAMONDS, FOUR of SPADES, KING of CLUBS, SIX of DIAMONDS, JACK of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of CLUBS
+222 has placed down KING of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+2 Cards:
+FIVE of HEARTS, QUEEN of SPADES, 
+111's Current Pile:
+22 Cards:
+EIGHT of DIAMONDS, SEVEN of CLUBS, EIGHT of SPADES, TWO of DIAMONDS, KING of SPADES, NINE of HEARTS, TEN of DIAMONDS, THREE of DIAMONDS, FOUR of DIAMONDS, SEVEN of DIAMONDS, EIGHT of CLUBS, JACK of SPADES, TWO of CLUBS, JACK of DIAMONDS, ACE of DIAMONDS, ACE of HEARTS, QUEEN of CLUBS, SIX of SPADES, KING of DIAMONDS, NINE of CLUBS, JACK of HEARTS, FOUR of CLUBS, 
+222's Current Hand:
+2 Cards:
+THREE of SPADES, QUEEN of HEARTS, 
+222's Current Pile:
+26 Cards:
+FIVE of CLUBS, SIX of CLUBS, FOUR of HEARTS, ACE of SPADES, THREE of HEARTS, SEVEN of SPADES, TEN of CLUBS, SIX of HEARTS, ACE of CLUBS, QUEEN of DIAMONDS, FIVE of SPADES, NINE of SPADES, TWO of HEARTS, TWO of SPADES, SEVEN of HEARTS, TEN of SPADES, EIGHT of HEARTS, TEN of HEARTS, FIVE of DIAMONDS, NINE of DIAMONDS, FOUR of SPADES, KING of CLUBS, SIX of DIAMONDS, JACK of CLUBS, THREE of CLUBS, KING of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down QUEEN of SPADES
+222 has placed down QUEEN of HEARTS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down FIVE of HEARTS
+222 has placed down THREE of SPADES
+War turn 2 : 
+111 has placed down EIGHT of DIAMONDS
+222 has placed down FIVE of CLUBS
+War turn 3 : 
+111 has placed down SEVEN of CLUBS
+222 has placed down SIX of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+20 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, JACK of SPADES, EIGHT of CLUBS, SEVEN of DIAMONDS, FOUR of DIAMONDS, THREE of DIAMONDS, TEN of DIAMONDS, NINE of HEARTS, KING of SPADES, TWO of DIAMONDS, EIGHT of SPADES, 
+111's Current Pile:
+8 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, 
+222's Current Hand:
+24 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, NINE of SPADES, FIVE of SPADES, QUEEN of DIAMONDS, ACE of CLUBS, SIX of HEARTS, TEN of CLUBS, SEVEN of SPADES, THREE of HEARTS, ACE of SPADES, FOUR of HEARTS, 
+222's Current Pile:
+0 Cards:
+Empty
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of SPADES
+222 has placed down FOUR of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+19 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, JACK of SPADES, EIGHT of CLUBS, SEVEN of DIAMONDS, FOUR of DIAMONDS, THREE of DIAMONDS, TEN of DIAMONDS, NINE of HEARTS, KING of SPADES, TWO of DIAMONDS, 
+111's Current Pile:
+10 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, 
+222's Current Hand:
+23 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, NINE of SPADES, FIVE of SPADES, QUEEN of DIAMONDS, ACE of CLUBS, SIX of HEARTS, TEN of CLUBS, SEVEN of SPADES, THREE of HEARTS, ACE of SPADES, 
+222's Current Pile:
+0 Cards:
+Empty
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of DIAMONDS
+222 has placed down ACE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+18 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, JACK of SPADES, EIGHT of CLUBS, SEVEN of DIAMONDS, FOUR of DIAMONDS, THREE of DIAMONDS, TEN of DIAMONDS, NINE of HEARTS, KING of SPADES, 
+111's Current Pile:
+10 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, 
+222's Current Hand:
+22 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, NINE of SPADES, FIVE of SPADES, QUEEN of DIAMONDS, ACE of CLUBS, SIX of HEARTS, TEN of CLUBS, SEVEN of SPADES, THREE of HEARTS, 
+222's Current Pile:
+2 Cards:
+TWO of DIAMONDS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down KING of SPADES
+222 has placed down THREE of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+17 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, JACK of SPADES, EIGHT of CLUBS, SEVEN of DIAMONDS, FOUR of DIAMONDS, THREE of DIAMONDS, TEN of DIAMONDS, NINE of HEARTS, 
+111's Current Pile:
+12 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, 
+222's Current Hand:
+21 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, NINE of SPADES, FIVE of SPADES, QUEEN of DIAMONDS, ACE of CLUBS, SIX of HEARTS, TEN of CLUBS, SEVEN of SPADES, 
+222's Current Pile:
+2 Cards:
+TWO of DIAMONDS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of HEARTS
+222 has placed down SEVEN of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+16 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, JACK of SPADES, EIGHT of CLUBS, SEVEN of DIAMONDS, FOUR of DIAMONDS, THREE of DIAMONDS, TEN of DIAMONDS, 
+111's Current Pile:
+14 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, 
+222's Current Hand:
+20 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, NINE of SPADES, FIVE of SPADES, QUEEN of DIAMONDS, ACE of CLUBS, SIX of HEARTS, TEN of CLUBS, 
+222's Current Pile:
+2 Cards:
+TWO of DIAMONDS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of DIAMONDS
+222 has placed down TEN of CLUBS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down THREE of DIAMONDS
+222 has placed down SIX of HEARTS
+War turn 2 : 
+111 has placed down FOUR of DIAMONDS
+222 has placed down ACE of CLUBS
+War turn 3 : 
+111 has placed down SEVEN of DIAMONDS
+222 has placed down QUEEN of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+12 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, JACK of SPADES, EIGHT of CLUBS, 
+111's Current Pile:
+14 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, 
+222's Current Hand:
+16 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, NINE of SPADES, FIVE of SPADES, 
+222's Current Pile:
+10 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of CLUBS
+222 has placed down FIVE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+11 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, JACK of SPADES, 
+111's Current Pile:
+16 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, EIGHT of CLUBS, FIVE of SPADES, 
+222's Current Hand:
+15 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, NINE of SPADES, 
+222's Current Pile:
+10 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down JACK of SPADES
+222 has placed down NINE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+10 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, ACE of HEARTS, ACE of DIAMONDS, JACK of DIAMONDS, TWO of CLUBS, 
+111's Current Pile:
+18 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, EIGHT of CLUBS, FIVE of SPADES, JACK of SPADES, NINE of SPADES, 
+222's Current Hand:
+14 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, TEN of SPADES, SEVEN of HEARTS, TWO of SPADES, TWO of HEARTS, 
+222's Current Pile:
+10 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of CLUBS
+222 has placed down TWO of HEARTS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down JACK of DIAMONDS
+222 has placed down TWO of SPADES
+War turn 2 : 
+111 has placed down ACE of DIAMONDS
+222 has placed down SEVEN of HEARTS
+War turn 3 : 
+111 has placed down ACE of HEARTS
+222 has placed down TEN of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+6 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, QUEEN of CLUBS, 
+111's Current Pile:
+26 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, EIGHT of CLUBS, FIVE of SPADES, JACK of SPADES, NINE of SPADES, TEN of SPADES, ACE of HEARTS, SEVEN of HEARTS, ACE of DIAMONDS, TWO of SPADES, JACK of DIAMONDS, TWO of HEARTS, TWO of CLUBS, 
+222's Current Hand:
+10 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, EIGHT of HEARTS, 
+222's Current Pile:
+10 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down QUEEN of CLUBS
+222 has placed down EIGHT of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+5 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, SIX of SPADES, 
+111's Current Pile:
+28 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, EIGHT of CLUBS, FIVE of SPADES, JACK of SPADES, NINE of SPADES, TEN of SPADES, ACE of HEARTS, SEVEN of HEARTS, ACE of DIAMONDS, TWO of SPADES, JACK of DIAMONDS, TWO of HEARTS, TWO of CLUBS, QUEEN of CLUBS, EIGHT of HEARTS, 
+222's Current Hand:
+9 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, TEN of HEARTS, 
+222's Current Pile:
+10 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SIX of SPADES
+222 has placed down TEN of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, KING of DIAMONDS, 
+111's Current Pile:
+28 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, EIGHT of CLUBS, FIVE of SPADES, JACK of SPADES, NINE of SPADES, TEN of SPADES, ACE of HEARTS, SEVEN of HEARTS, ACE of DIAMONDS, TWO of SPADES, JACK of DIAMONDS, TWO of HEARTS, TWO of CLUBS, QUEEN of CLUBS, EIGHT of HEARTS, 
+222's Current Hand:
+8 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, FIVE of DIAMONDS, 
+222's Current Pile:
+12 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, SIX of SPADES, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down KING of DIAMONDS
+222 has placed down FIVE of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+3 Cards:
+FOUR of CLUBS, JACK of HEARTS, NINE of CLUBS, 
+111's Current Pile:
+30 Cards:
+SIX of CLUBS, SEVEN of CLUBS, FIVE of CLUBS, EIGHT of DIAMONDS, THREE of SPADES, FIVE of HEARTS, QUEEN of HEARTS, QUEEN of SPADES, EIGHT of SPADES, FOUR of HEARTS, KING of SPADES, THREE of HEARTS, NINE of HEARTS, SEVEN of SPADES, EIGHT of CLUBS, FIVE of SPADES, JACK of SPADES, NINE of SPADES, TEN of SPADES, ACE of HEARTS, SEVEN of HEARTS, ACE of DIAMONDS, TWO of SPADES, JACK of DIAMONDS, TWO of HEARTS, TWO of CLUBS, QUEEN of CLUBS, EIGHT of HEARTS, KING of DIAMONDS, FIVE of DIAMONDS, 
+222's Current Hand:
+7 Cards:
+KING of HEARTS, THREE of CLUBS, JACK of CLUBS, SIX of DIAMONDS, KING of CLUBS, FOUR of SPADES, NINE of DIAMONDS, 
+222's Current Pile:
+12 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, SIX of SPADES, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of CLUBS
+222 has placed down NINE of DIAMONDS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down JACK of HEARTS
+222 has placed down FOUR of SPADES
+War turn 2 : 
+111 has placed down FOUR of CLUBS
+222 has placed down KING of CLUBS
+War turn 3 : 
+111 has placed down SIX of CLUBS
+222 has placed down SIX of DIAMONDS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down SEVEN of CLUBS
+222 has placed down JACK of CLUBS
+War turn 2 : 
+111 has placed down FIVE of CLUBS
+222 has placed down THREE of CLUBS
+War turn 3 : 
+111 has placed down EIGHT of DIAMONDS
+222 has placed down KING of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+26 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, JACK of SPADES, FIVE of SPADES, EIGHT of CLUBS, SEVEN of SPADES, NINE of HEARTS, THREE of HEARTS, KING of SPADES, FOUR of HEARTS, EIGHT of SPADES, QUEEN of SPADES, QUEEN of HEARTS, FIVE of HEARTS, THREE of SPADES, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+0 Cards:
+Empty
+222's Current Pile:
+26 Cards:
+TWO of DIAMONDS, ACE of SPADES, QUEEN of DIAMONDS, SEVEN of DIAMONDS, ACE of CLUBS, FOUR of DIAMONDS, SIX of HEARTS, THREE of DIAMONDS, TEN of CLUBS, TEN of DIAMONDS, SIX of SPADES, TEN of HEARTS, KING of HEARTS, EIGHT of DIAMONDS, THREE of CLUBS, FIVE of CLUBS, JACK of CLUBS, SEVEN of CLUBS, SIX of DIAMONDS, SIX of CLUBS, KING of CLUBS, FOUR of CLUBS, FOUR of SPADES, JACK of HEARTS, NINE of DIAMONDS, NINE of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of SPADES
+222 has placed down TWO of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+25 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, JACK of SPADES, FIVE of SPADES, EIGHT of CLUBS, SEVEN of SPADES, NINE of HEARTS, THREE of HEARTS, KING of SPADES, FOUR of HEARTS, EIGHT of SPADES, QUEEN of SPADES, QUEEN of HEARTS, FIVE of HEARTS, 
+111's Current Pile:
+2 Cards:
+THREE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+25 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, EIGHT of DIAMONDS, KING of HEARTS, TEN of HEARTS, SIX of SPADES, TEN of DIAMONDS, TEN of CLUBS, THREE of DIAMONDS, SIX of HEARTS, FOUR of DIAMONDS, ACE of CLUBS, SEVEN of DIAMONDS, QUEEN of DIAMONDS, ACE of SPADES, 
+222's Current Pile:
+0 Cards:
+Empty
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of HEARTS
+222 has placed down ACE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+24 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, JACK of SPADES, FIVE of SPADES, EIGHT of CLUBS, SEVEN of SPADES, NINE of HEARTS, THREE of HEARTS, KING of SPADES, FOUR of HEARTS, EIGHT of SPADES, QUEEN of SPADES, QUEEN of HEARTS, 
+111's Current Pile:
+2 Cards:
+THREE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+24 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, EIGHT of DIAMONDS, KING of HEARTS, TEN of HEARTS, SIX of SPADES, TEN of DIAMONDS, TEN of CLUBS, THREE of DIAMONDS, SIX of HEARTS, FOUR of DIAMONDS, ACE of CLUBS, SEVEN of DIAMONDS, QUEEN of DIAMONDS, 
+222's Current Pile:
+2 Cards:
+FIVE of HEARTS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down QUEEN of HEARTS
+222 has placed down QUEEN of DIAMONDS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down QUEEN of SPADES
+222 has placed down SEVEN of DIAMONDS
+War turn 2 : 
+111 has placed down EIGHT of SPADES
+222 has placed down ACE of CLUBS
+War turn 3 : 
+111 has placed down FOUR of HEARTS
+222 has placed down FOUR of DIAMONDS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down KING of SPADES
+222 has placed down SIX of HEARTS
+War turn 2 : 
+111 has placed down THREE of HEARTS
+222 has placed down THREE of DIAMONDS
+War turn 3 : 
+111 has placed down NINE of HEARTS
+222 has placed down TEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+17 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, JACK of SPADES, FIVE of SPADES, EIGHT of CLUBS, SEVEN of SPADES, 
+111's Current Pile:
+2 Cards:
+THREE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+17 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, EIGHT of DIAMONDS, KING of HEARTS, TEN of HEARTS, SIX of SPADES, TEN of DIAMONDS, 
+222's Current Pile:
+16 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SEVEN of SPADES
+222 has placed down TEN of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+16 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, JACK of SPADES, FIVE of SPADES, EIGHT of CLUBS, 
+111's Current Pile:
+2 Cards:
+THREE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+16 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, EIGHT of DIAMONDS, KING of HEARTS, TEN of HEARTS, SIX of SPADES, 
+222's Current Pile:
+18 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of CLUBS
+222 has placed down SIX of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+15 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, JACK of SPADES, FIVE of SPADES, 
+111's Current Pile:
+4 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, 
+222's Current Hand:
+15 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, EIGHT of DIAMONDS, KING of HEARTS, TEN of HEARTS, 
+222's Current Pile:
+18 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of SPADES
+222 has placed down TEN of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+14 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, JACK of SPADES, 
+111's Current Pile:
+4 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, 
+222's Current Hand:
+14 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, EIGHT of DIAMONDS, KING of HEARTS, 
+222's Current Pile:
+20 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down JACK of SPADES
+222 has placed down KING of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+13 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, NINE of SPADES, 
+111's Current Pile:
+4 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, 
+222's Current Hand:
+13 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, EIGHT of DIAMONDS, 
+222's Current Pile:
+22 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of SPADES
+222 has placed down EIGHT of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+12 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, TEN of SPADES, 
+111's Current Pile:
+6 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, 
+222's Current Hand:
+12 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, THREE of CLUBS, 
+222's Current Pile:
+22 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down THREE of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+11 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, ACE of HEARTS, 
+111's Current Pile:
+8 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, 
+222's Current Hand:
+11 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, FIVE of CLUBS, 
+222's Current Pile:
+22 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of HEARTS
+222 has placed down FIVE of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+10 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, SEVEN of HEARTS, 
+111's Current Pile:
+10 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, 
+222's Current Hand:
+10 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, JACK of CLUBS, 
+222's Current Pile:
+22 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SEVEN of HEARTS
+222 has placed down JACK of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+9 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, ACE of DIAMONDS, 
+111's Current Pile:
+10 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, 
+222's Current Hand:
+9 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, SEVEN of CLUBS, 
+222's Current Pile:
+24 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of DIAMONDS
+222 has placed down SEVEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+8 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, TWO of SPADES, 
+111's Current Pile:
+12 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, 
+222's Current Hand:
+8 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, SIX of DIAMONDS, 
+222's Current Pile:
+24 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of SPADES
+222 has placed down SIX of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+7 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, JACK of DIAMONDS, 
+111's Current Pile:
+12 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, 
+222's Current Hand:
+7 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, SIX of CLUBS, 
+222's Current Pile:
+26 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down JACK of DIAMONDS
+222 has placed down SIX of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+6 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, TWO of HEARTS, 
+111's Current Pile:
+14 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, JACK of DIAMONDS, SIX of CLUBS, 
+222's Current Hand:
+6 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, KING of CLUBS, 
+222's Current Pile:
+26 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of HEARTS
+222 has placed down KING of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+5 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, TWO of CLUBS, 
+111's Current Pile:
+14 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, JACK of DIAMONDS, SIX of CLUBS, 
+222's Current Hand:
+5 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, FOUR of CLUBS, 
+222's Current Pile:
+28 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, TWO of HEARTS, KING of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of CLUBS
+222 has placed down FOUR of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, QUEEN of CLUBS, 
+111's Current Pile:
+14 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, JACK of DIAMONDS, SIX of CLUBS, 
+222's Current Hand:
+4 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, FOUR of SPADES, 
+222's Current Pile:
+30 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, TWO of HEARTS, KING of CLUBS, TWO of CLUBS, FOUR of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down QUEEN of CLUBS
+222 has placed down FOUR of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+3 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, EIGHT of HEARTS, 
+111's Current Pile:
+16 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, JACK of DIAMONDS, SIX of CLUBS, QUEEN of CLUBS, FOUR of SPADES, 
+222's Current Hand:
+3 Cards:
+NINE of CLUBS, NINE of DIAMONDS, JACK of HEARTS, 
+222's Current Pile:
+30 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, TWO of HEARTS, KING of CLUBS, TWO of CLUBS, FOUR of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of HEARTS
+222 has placed down JACK of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+2 Cards:
+FIVE of DIAMONDS, KING of DIAMONDS, 
+111's Current Pile:
+16 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, JACK of DIAMONDS, SIX of CLUBS, QUEEN of CLUBS, FOUR of SPADES, 
+222's Current Hand:
+2 Cards:
+NINE of CLUBS, NINE of DIAMONDS, 
+222's Current Pile:
+32 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, TWO of HEARTS, KING of CLUBS, TWO of CLUBS, FOUR of CLUBS, EIGHT of HEARTS, JACK of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down KING of DIAMONDS
+222 has placed down NINE of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+1 Cards:
+FIVE of DIAMONDS, 
+111's Current Pile:
+18 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, JACK of DIAMONDS, SIX of CLUBS, QUEEN of CLUBS, FOUR of SPADES, KING of DIAMONDS, NINE of DIAMONDS, 
+222's Current Hand:
+1 Cards:
+NINE of CLUBS, 
+222's Current Pile:
+32 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, TWO of HEARTS, KING of CLUBS, TWO of CLUBS, FOUR of CLUBS, EIGHT of HEARTS, JACK of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of DIAMONDS
+222 has placed down NINE of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+18 Cards:
+THREE of SPADES, TWO of DIAMONDS, EIGHT of CLUBS, SIX of SPADES, NINE of SPADES, EIGHT of DIAMONDS, TEN of SPADES, THREE of CLUBS, ACE of HEARTS, FIVE of CLUBS, ACE of DIAMONDS, SEVEN of CLUBS, JACK of DIAMONDS, SIX of CLUBS, QUEEN of CLUBS, FOUR of SPADES, KING of DIAMONDS, NINE of DIAMONDS, 
+222's Current Hand:
+0 Cards:
+Empty
+222's Current Pile:
+34 Cards:
+FIVE of HEARTS, ACE of SPADES, TEN of CLUBS, NINE of HEARTS, THREE of DIAMONDS, THREE of HEARTS, SIX of HEARTS, KING of SPADES, FOUR of DIAMONDS, FOUR of HEARTS, ACE of CLUBS, EIGHT of SPADES, SEVEN of DIAMONDS, QUEEN of SPADES, QUEEN of DIAMONDS, QUEEN of HEARTS, SEVEN of SPADES, TEN of DIAMONDS, FIVE of SPADES, TEN of HEARTS, JACK of SPADES, KING of HEARTS, SEVEN of HEARTS, JACK of CLUBS, TWO of SPADES, SIX of DIAMONDS, TWO of HEARTS, KING of CLUBS, TWO of CLUBS, FOUR of CLUBS, EIGHT of HEARTS, JACK of HEARTS, FIVE of DIAMONDS, NINE of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of SPADES
+222 has placed down FIVE of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+17 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, THREE of CLUBS, TEN of SPADES, EIGHT of DIAMONDS, NINE of SPADES, SIX of SPADES, EIGHT of CLUBS, TWO of DIAMONDS, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+33 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES, SIX of HEARTS, THREE of HEARTS, THREE of DIAMONDS, NINE of HEARTS, TEN of CLUBS, ACE of SPADES, 
+222's Current Pile:
+2 Cards:
+THREE of SPADES, FIVE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of DIAMONDS
+222 has placed down ACE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+16 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, THREE of CLUBS, TEN of SPADES, EIGHT of DIAMONDS, NINE of SPADES, SIX of SPADES, EIGHT of CLUBS, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+32 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES, SIX of HEARTS, THREE of HEARTS, THREE of DIAMONDS, NINE of HEARTS, TEN of CLUBS, 
+222's Current Pile:
+4 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of CLUBS
+222 has placed down TEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+15 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, THREE of CLUBS, TEN of SPADES, EIGHT of DIAMONDS, NINE of SPADES, SIX of SPADES, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+31 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES, SIX of HEARTS, THREE of HEARTS, THREE of DIAMONDS, NINE of HEARTS, 
+222's Current Pile:
+6 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SIX of SPADES
+222 has placed down NINE of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+14 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, THREE of CLUBS, TEN of SPADES, EIGHT of DIAMONDS, NINE of SPADES, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+30 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES, SIX of HEARTS, THREE of HEARTS, THREE of DIAMONDS, 
+222's Current Pile:
+8 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of SPADES
+222 has placed down THREE of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+13 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, THREE of CLUBS, TEN of SPADES, EIGHT of DIAMONDS, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, THREE of DIAMONDS, 
+222's Current Hand:
+29 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES, SIX of HEARTS, THREE of HEARTS, 
+222's Current Pile:
+8 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of DIAMONDS
+222 has placed down THREE of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+12 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, THREE of CLUBS, TEN of SPADES, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, THREE of DIAMONDS, EIGHT of DIAMONDS, THREE of HEARTS, 
+222's Current Hand:
+28 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES, SIX of HEARTS, 
+222's Current Pile:
+8 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down SIX of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+11 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, THREE of CLUBS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, THREE of DIAMONDS, EIGHT of DIAMONDS, THREE of HEARTS, TEN of SPADES, SIX of HEARTS, 
+222's Current Hand:
+27 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, KING of SPADES, 
+222's Current Pile:
+8 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of CLUBS
+222 has placed down KING of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+10 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, ACE of HEARTS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, THREE of DIAMONDS, EIGHT of DIAMONDS, THREE of HEARTS, TEN of SPADES, SIX of HEARTS, 
+222's Current Hand:
+26 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, FOUR of DIAMONDS, 
+222's Current Pile:
+10 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of HEARTS
+222 has placed down FOUR of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+9 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, FIVE of CLUBS, 
+111's Current Pile:
+8 Cards:
+NINE of SPADES, THREE of DIAMONDS, EIGHT of DIAMONDS, THREE of HEARTS, TEN of SPADES, SIX of HEARTS, ACE of HEARTS, FOUR of DIAMONDS, 
+222's Current Hand:
+25 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, FOUR of HEARTS, 
+222's Current Pile:
+10 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of CLUBS
+222 has placed down FOUR of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+8 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, SIX of CLUBS, JACK of DIAMONDS, SEVEN of CLUBS, ACE of DIAMONDS, 
+111's Current Pile:
+10 Cards:
+NINE of SPADES, THREE of DIAMONDS, EIGHT of DIAMONDS, THREE of HEARTS, TEN of SPADES, SIX of HEARTS, ACE of HEARTS, FOUR of DIAMONDS, FIVE of CLUBS, FOUR of HEARTS, 
+222's Current Hand:
+24 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, QUEEN of SPADES, SEVEN of DIAMONDS, EIGHT of SPADES, ACE of CLUBS, 
+222's Current Pile:
+10 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of DIAMONDS
+222 has placed down ACE of CLUBS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down SEVEN of CLUBS
+222 has placed down EIGHT of SPADES
+War turn 2 : 
+111 has placed down JACK of DIAMONDS
+222 has placed down SEVEN of DIAMONDS
+War turn 3 : 
+111 has placed down SIX of CLUBS
+222 has placed down QUEEN of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+NINE of DIAMONDS, KING of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, 
+111's Current Pile:
+10 Cards:
+NINE of SPADES, THREE of DIAMONDS, EIGHT of DIAMONDS, THREE of HEARTS, TEN of SPADES, SIX of HEARTS, ACE of HEARTS, FOUR of DIAMONDS, FIVE of CLUBS, FOUR of HEARTS, 
+222's Current Hand:
+20 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, TEN of DIAMONDS, SEVEN of SPADES, QUEEN of HEARTS, QUEEN of DIAMONDS, 
+222's Current Pile:
+18 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down QUEEN of CLUBS
+222 has placed down QUEEN of DIAMONDS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down FOUR of SPADES
+222 has placed down QUEEN of HEARTS
+War turn 2 : 
+111 has placed down KING of DIAMONDS
+222 has placed down SEVEN of SPADES
+War turn 3 : 
+111 has placed down NINE of DIAMONDS
+222 has placed down TEN of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+10 Cards:
+NINE of SPADES, THREE of DIAMONDS, EIGHT of DIAMONDS, THREE of HEARTS, TEN of SPADES, SIX of HEARTS, ACE of HEARTS, FOUR of DIAMONDS, FIVE of CLUBS, FOUR of HEARTS, 
+222's Current Hand:
+16 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, FIVE of SPADES, 
+222's Current Pile:
+26 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of SPADES
+222 has placed down FIVE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+9 Cards:
+FOUR of HEARTS, FIVE of CLUBS, FOUR of DIAMONDS, ACE of HEARTS, SIX of HEARTS, TEN of SPADES, THREE of HEARTS, EIGHT of DIAMONDS, THREE of DIAMONDS, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, FIVE of SPADES, 
+222's Current Hand:
+15 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, TEN of HEARTS, 
+222's Current Pile:
+26 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of DIAMONDS
+222 has placed down TEN of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+8 Cards:
+FOUR of HEARTS, FIVE of CLUBS, FOUR of DIAMONDS, ACE of HEARTS, SIX of HEARTS, TEN of SPADES, THREE of HEARTS, EIGHT of DIAMONDS, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, FIVE of SPADES, 
+222's Current Hand:
+14 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, JACK of SPADES, 
+222's Current Pile:
+28 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of DIAMONDS
+222 has placed down JACK of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+7 Cards:
+FOUR of HEARTS, FIVE of CLUBS, FOUR of DIAMONDS, ACE of HEARTS, SIX of HEARTS, TEN of SPADES, THREE of HEARTS, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, FIVE of SPADES, 
+222's Current Hand:
+13 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, KING of HEARTS, 
+222's Current Pile:
+30 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of HEARTS
+222 has placed down KING of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+6 Cards:
+FOUR of HEARTS, FIVE of CLUBS, FOUR of DIAMONDS, ACE of HEARTS, SIX of HEARTS, TEN of SPADES, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, FIVE of SPADES, 
+222's Current Hand:
+12 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, SEVEN of HEARTS, 
+222's Current Pile:
+32 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down SEVEN of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+5 Cards:
+FOUR of HEARTS, FIVE of CLUBS, FOUR of DIAMONDS, ACE of HEARTS, SIX of HEARTS, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, FIVE of SPADES, TEN of SPADES, SEVEN of HEARTS, 
+222's Current Hand:
+11 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, JACK of CLUBS, 
+222's Current Pile:
+32 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SIX of HEARTS
+222 has placed down JACK of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+FOUR of HEARTS, FIVE of CLUBS, FOUR of DIAMONDS, ACE of HEARTS, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, FIVE of SPADES, TEN of SPADES, SEVEN of HEARTS, 
+222's Current Hand:
+10 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, TWO of SPADES, 
+222's Current Pile:
+34 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of HEARTS
+222 has placed down TWO of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+3 Cards:
+FOUR of HEARTS, FIVE of CLUBS, FOUR of DIAMONDS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, FIVE of SPADES, TEN of SPADES, SEVEN of HEARTS, ACE of HEARTS, TWO of SPADES, 
+222's Current Hand:
+9 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, SIX of DIAMONDS, 
+222's Current Pile:
+34 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FOUR of DIAMONDS
+222 has placed down SIX of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+2 Cards:
+FOUR of HEARTS, FIVE of CLUBS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, FIVE of SPADES, TEN of SPADES, SEVEN of HEARTS, ACE of HEARTS, TWO of SPADES, 
+222's Current Hand:
+8 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, TWO of HEARTS, 
+222's Current Pile:
+36 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of CLUBS
+222 has placed down TWO of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+1 Cards:
+FOUR of HEARTS, 
+111's Current Pile:
+8 Cards:
+NINE of SPADES, FIVE of SPADES, TEN of SPADES, SEVEN of HEARTS, ACE of HEARTS, TWO of SPADES, FIVE of CLUBS, TWO of HEARTS, 
+222's Current Hand:
+7 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, KING of CLUBS, 
+222's Current Pile:
+36 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FOUR of HEARTS
+222 has placed down KING of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+8 Cards:
+NINE of SPADES, FIVE of SPADES, TEN of SPADES, SEVEN of HEARTS, ACE of HEARTS, TWO of SPADES, FIVE of CLUBS, TWO of HEARTS, 
+222's Current Hand:
+6 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, TWO of CLUBS, 
+222's Current Pile:
+38 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, FOUR of HEARTS, KING of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of SPADES
+222 has placed down TWO of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+7 Cards:
+TWO of HEARTS, FIVE of CLUBS, TWO of SPADES, ACE of HEARTS, SEVEN of HEARTS, TEN of SPADES, FIVE of SPADES, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, TWO of CLUBS, 
+222's Current Hand:
+5 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, FOUR of CLUBS, 
+222's Current Pile:
+38 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, FOUR of HEARTS, KING of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of SPADES
+222 has placed down FOUR of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+6 Cards:
+TWO of HEARTS, FIVE of CLUBS, TWO of SPADES, ACE of HEARTS, SEVEN of HEARTS, TEN of SPADES, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, TWO of CLUBS, FIVE of SPADES, FOUR of CLUBS, 
+222's Current Hand:
+4 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, EIGHT of HEARTS, 
+222's Current Pile:
+38 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, FOUR of HEARTS, KING of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down EIGHT of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+5 Cards:
+TWO of HEARTS, FIVE of CLUBS, TWO of SPADES, ACE of HEARTS, SEVEN of HEARTS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, TWO of CLUBS, FIVE of SPADES, FOUR of CLUBS, TEN of SPADES, EIGHT of HEARTS, 
+222's Current Hand:
+3 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, JACK of HEARTS, 
+222's Current Pile:
+38 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, FOUR of HEARTS, KING of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SEVEN of HEARTS
+222 has placed down JACK of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+TWO of HEARTS, FIVE of CLUBS, TWO of SPADES, ACE of HEARTS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, TWO of CLUBS, FIVE of SPADES, FOUR of CLUBS, TEN of SPADES, EIGHT of HEARTS, 
+222's Current Hand:
+2 Cards:
+NINE of CLUBS, FIVE of DIAMONDS, 
+222's Current Pile:
+40 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, FOUR of HEARTS, KING of CLUBS, SEVEN of HEARTS, JACK of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of HEARTS
+222 has placed down FIVE of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+3 Cards:
+TWO of HEARTS, FIVE of CLUBS, TWO of SPADES, 
+111's Current Pile:
+8 Cards:
+NINE of SPADES, TWO of CLUBS, FIVE of SPADES, FOUR of CLUBS, TEN of SPADES, EIGHT of HEARTS, ACE of HEARTS, FIVE of DIAMONDS, 
+222's Current Hand:
+1 Cards:
+NINE of CLUBS, 
+222's Current Pile:
+40 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, FOUR of HEARTS, KING of CLUBS, SEVEN of HEARTS, JACK of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of SPADES
+222 has placed down NINE of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+2 Cards:
+TWO of HEARTS, FIVE of CLUBS, 
+111's Current Pile:
+8 Cards:
+NINE of SPADES, TWO of CLUBS, FIVE of SPADES, FOUR of CLUBS, TEN of SPADES, EIGHT of HEARTS, ACE of HEARTS, FIVE of DIAMONDS, 
+222's Current Hand:
+0 Cards:
+Empty
+222's Current Pile:
+42 Cards:
+THREE of SPADES, FIVE of HEARTS, TWO of DIAMONDS, ACE of SPADES, EIGHT of CLUBS, TEN of CLUBS, SIX of SPADES, NINE of HEARTS, THREE of CLUBS, KING of SPADES, QUEEN of SPADES, SIX of CLUBS, SEVEN of DIAMONDS, JACK of DIAMONDS, EIGHT of SPADES, SEVEN of CLUBS, ACE of CLUBS, ACE of DIAMONDS, TEN of DIAMONDS, NINE of DIAMONDS, SEVEN of SPADES, KING of DIAMONDS, QUEEN of HEARTS, FOUR of SPADES, QUEEN of DIAMONDS, QUEEN of CLUBS, THREE of DIAMONDS, TEN of HEARTS, EIGHT of DIAMONDS, JACK of SPADES, THREE of HEARTS, KING of HEARTS, SIX of HEARTS, JACK of CLUBS, FOUR of DIAMONDS, SIX of DIAMONDS, FOUR of HEARTS, KING of CLUBS, SEVEN of HEARTS, JACK of HEARTS, TWO of SPADES, NINE of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of CLUBS
+222 has placed down THREE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+1 Cards:
+TWO of HEARTS, 
+111's Current Pile:
+10 Cards:
+NINE of SPADES, TWO of CLUBS, FIVE of SPADES, FOUR of CLUBS, TEN of SPADES, EIGHT of HEARTS, ACE of HEARTS, FIVE of DIAMONDS, FIVE of CLUBS, THREE of SPADES, 
+222's Current Hand:
+41 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, NINE of HEARTS, SIX of SPADES, TEN of CLUBS, EIGHT of CLUBS, ACE of SPADES, TWO of DIAMONDS, FIVE of HEARTS, 
+222's Current Pile:
+0 Cards:
+Empty
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of HEARTS
+222 has placed down FIVE of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+10 Cards:
+NINE of SPADES, TWO of CLUBS, FIVE of SPADES, FOUR of CLUBS, TEN of SPADES, EIGHT of HEARTS, ACE of HEARTS, FIVE of DIAMONDS, FIVE of CLUBS, THREE of SPADES, 
+222's Current Hand:
+40 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, NINE of HEARTS, SIX of SPADES, TEN of CLUBS, EIGHT of CLUBS, ACE of SPADES, TWO of DIAMONDS, 
+222's Current Pile:
+2 Cards:
+TWO of HEARTS, FIVE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of SPADES
+222 has placed down TWO of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+9 Cards:
+THREE of SPADES, FIVE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS, EIGHT of HEARTS, TEN of SPADES, FOUR of CLUBS, FIVE of SPADES, TWO of CLUBS, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+39 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, NINE of HEARTS, SIX of SPADES, TEN of CLUBS, EIGHT of CLUBS, ACE of SPADES, 
+222's Current Pile:
+2 Cards:
+TWO of HEARTS, FIVE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of CLUBS
+222 has placed down ACE of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+8 Cards:
+THREE of SPADES, FIVE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS, EIGHT of HEARTS, TEN of SPADES, FOUR of CLUBS, FIVE of SPADES, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+38 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, NINE of HEARTS, SIX of SPADES, TEN of CLUBS, EIGHT of CLUBS, 
+222's Current Pile:
+4 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of SPADES
+222 has placed down EIGHT of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+7 Cards:
+THREE of SPADES, FIVE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS, EIGHT of HEARTS, TEN of SPADES, FOUR of CLUBS, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+37 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, NINE of HEARTS, SIX of SPADES, TEN of CLUBS, 
+222's Current Pile:
+6 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FOUR of CLUBS
+222 has placed down TEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+6 Cards:
+THREE of SPADES, FIVE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS, EIGHT of HEARTS, TEN of SPADES, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, TWO of DIAMONDS, 
+222's Current Hand:
+36 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, NINE of HEARTS, SIX of SPADES, 
+222's Current Pile:
+8 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down SIX of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+5 Cards:
+THREE of SPADES, FIVE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS, EIGHT of HEARTS, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, TWO of DIAMONDS, TEN of SPADES, SIX of SPADES, 
+222's Current Hand:
+35 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, NINE of HEARTS, 
+222's Current Pile:
+8 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of HEARTS
+222 has placed down NINE of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+THREE of SPADES, FIVE of CLUBS, FIVE of DIAMONDS, ACE of HEARTS, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, TWO of DIAMONDS, TEN of SPADES, SIX of SPADES, 
+222's Current Hand:
+34 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, THREE of CLUBS, 
+222's Current Pile:
+10 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of HEARTS
+222 has placed down THREE of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+3 Cards:
+THREE of SPADES, FIVE of CLUBS, FIVE of DIAMONDS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, TWO of DIAMONDS, TEN of SPADES, SIX of SPADES, ACE of HEARTS, THREE of CLUBS, 
+222's Current Hand:
+33 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, KING of SPADES, 
+222's Current Pile:
+10 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of DIAMONDS
+222 has placed down KING of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+2 Cards:
+THREE of SPADES, FIVE of CLUBS, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, TWO of DIAMONDS, TEN of SPADES, SIX of SPADES, ACE of HEARTS, THREE of CLUBS, 
+222's Current Hand:
+32 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, QUEEN of SPADES, 
+222's Current Pile:
+12 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FIVE of CLUBS
+222 has placed down QUEEN of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+1 Cards:
+THREE of SPADES, 
+111's Current Pile:
+6 Cards:
+NINE of SPADES, TWO of DIAMONDS, TEN of SPADES, SIX of SPADES, ACE of HEARTS, THREE of CLUBS, 
+222's Current Hand:
+31 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, SIX of CLUBS, 
+222's Current Pile:
+14 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down THREE of SPADES
+222 has placed down SIX of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+6 Cards:
+NINE of SPADES, TWO of DIAMONDS, TEN of SPADES, SIX of SPADES, ACE of HEARTS, THREE of CLUBS, 
+222's Current Hand:
+30 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, SEVEN of DIAMONDS, 
+222's Current Pile:
+16 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down NINE of SPADES
+222 has placed down SEVEN of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+5 Cards:
+THREE of CLUBS, ACE of HEARTS, SIX of SPADES, TEN of SPADES, TWO of DIAMONDS, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, SEVEN of DIAMONDS, 
+222's Current Hand:
+29 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, JACK of DIAMONDS, 
+222's Current Pile:
+16 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TWO of DIAMONDS
+222 has placed down JACK of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+4 Cards:
+THREE of CLUBS, ACE of HEARTS, SIX of SPADES, TEN of SPADES, 
+111's Current Pile:
+2 Cards:
+NINE of SPADES, SEVEN of DIAMONDS, 
+222's Current Hand:
+28 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, EIGHT of SPADES, 
+222's Current Pile:
+18 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down EIGHT of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+3 Cards:
+THREE of CLUBS, ACE of HEARTS, SIX of SPADES, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, SEVEN of DIAMONDS, TEN of SPADES, EIGHT of SPADES, 
+222's Current Hand:
+27 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, SEVEN of CLUBS, 
+222's Current Pile:
+18 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SIX of SPADES
+222 has placed down SEVEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+2 Cards:
+THREE of CLUBS, ACE of HEARTS, 
+111's Current Pile:
+4 Cards:
+NINE of SPADES, SEVEN of DIAMONDS, TEN of SPADES, EIGHT of SPADES, 
+222's Current Hand:
+26 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, NINE of DIAMONDS, TEN of DIAMONDS, ACE of DIAMONDS, ACE of CLUBS, 
+222's Current Pile:
+20 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down ACE of HEARTS
+222 has placed down ACE of CLUBS
+--------------------------------------------------
+War : Both players play 3 cards
+--------------------------------------------------
+War turn 1 : 
+111 has placed down THREE of CLUBS
+222 has placed down ACE of DIAMONDS
+War turn 2 : 
+111 has placed down NINE of SPADES
+222 has placed down TEN of DIAMONDS
+War turn 3 : 
+111 has placed down SEVEN of DIAMONDS
+222 has placed down NINE of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+2 Cards:
+EIGHT of SPADES, TEN of SPADES, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+22 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, SEVEN of SPADES, 
+222's Current Pile:
+28 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, NINE of DIAMONDS, SEVEN of DIAMONDS, TEN of DIAMONDS, NINE of SPADES, ACE of DIAMONDS, THREE of CLUBS, ACE of CLUBS, ACE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down SEVEN of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+1 Cards:
+EIGHT of SPADES, 
+111's Current Pile:
+2 Cards:
+TEN of SPADES, SEVEN of SPADES, 
+222's Current Hand:
+21 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, KING of DIAMONDS, 
+222's Current Pile:
+28 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, NINE of DIAMONDS, SEVEN of DIAMONDS, TEN of DIAMONDS, NINE of SPADES, ACE of DIAMONDS, THREE of CLUBS, ACE of CLUBS, ACE of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down EIGHT of SPADES
+222 has placed down KING of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+2 Cards:
+TEN of SPADES, SEVEN of SPADES, 
+222's Current Hand:
+20 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of HEARTS, 
+222's Current Pile:
+30 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, NINE of DIAMONDS, SEVEN of DIAMONDS, TEN of DIAMONDS, NINE of SPADES, ACE of DIAMONDS, THREE of CLUBS, ACE of CLUBS, ACE of HEARTS, EIGHT of SPADES, KING of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down TEN of SPADES
+222 has placed down QUEEN of HEARTS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+1 Cards:
+SEVEN of SPADES, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+19 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, FOUR of SPADES, 
+222's Current Pile:
+32 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, NINE of DIAMONDS, SEVEN of DIAMONDS, TEN of DIAMONDS, NINE of SPADES, ACE of DIAMONDS, THREE of CLUBS, ACE of CLUBS, ACE of HEARTS, EIGHT of SPADES, KING of DIAMONDS, TEN of SPADES, QUEEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SEVEN of SPADES
+222 has placed down FOUR of SPADES
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+2 Cards:
+SEVEN of SPADES, FOUR of SPADES, 
+222's Current Hand:
+18 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, QUEEN of DIAMONDS, 
+222's Current Pile:
+32 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, NINE of DIAMONDS, SEVEN of DIAMONDS, TEN of DIAMONDS, NINE of SPADES, ACE of DIAMONDS, THREE of CLUBS, ACE of CLUBS, ACE of HEARTS, EIGHT of SPADES, KING of DIAMONDS, TEN of SPADES, QUEEN of HEARTS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down SEVEN of SPADES
+222 has placed down QUEEN of DIAMONDS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+1 Cards:
+FOUR of SPADES, 
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+17 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, QUEEN of CLUBS, 
+222's Current Pile:
+34 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, NINE of DIAMONDS, SEVEN of DIAMONDS, TEN of DIAMONDS, NINE of SPADES, ACE of DIAMONDS, THREE of CLUBS, ACE of CLUBS, ACE of HEARTS, EIGHT of SPADES, KING of DIAMONDS, TEN of SPADES, QUEEN of HEARTS, SEVEN of SPADES, QUEEN of DIAMONDS, 
+--------------------------------------------------
+Normal Turn:
+--------------------------------------------------
+111 has placed down FOUR of SPADES
+222 has placed down QUEEN of CLUBS
+--------------------------------------------------
+Player Hands:
+--------------------------------------------------
+111's Current Hand:
+0 Cards:
+Empty
+111's Current Pile:
+0 Cards:
+Empty
+222's Current Hand:
+16 Cards:
+NINE of CLUBS, TWO of SPADES, JACK of HEARTS, SEVEN of HEARTS, KING of CLUBS, FOUR of HEARTS, SIX of DIAMONDS, FOUR of DIAMONDS, JACK of CLUBS, SIX of HEARTS, KING of HEARTS, THREE of HEARTS, JACK of SPADES, EIGHT of DIAMONDS, TEN of HEARTS, THREE of DIAMONDS, 
+222's Current Pile:
+36 Cards:
+TWO of HEARTS, FIVE of HEARTS, TWO of CLUBS, ACE of SPADES, FIVE of SPADES, EIGHT of CLUBS, FOUR of CLUBS, TEN of CLUBS, EIGHT of HEARTS, NINE of HEARTS, FIVE of DIAMONDS, KING of SPADES, FIVE of CLUBS, QUEEN of SPADES, THREE of SPADES, SIX of CLUBS, TWO of DIAMONDS, JACK of DIAMONDS, SIX of SPADES, SEVEN of CLUBS, NINE of DIAMONDS, SEVEN of DIAMONDS, TEN of DIAMONDS, NINE of SPADES, ACE of DIAMONDS, THREE of CLUBS, ACE of CLUBS, ACE of HEARTS, EIGHT of SPADES, KING of DIAMONDS, TEN of SPADES, QUEEN of HEARTS, SEVEN of SPADES, QUEEN of DIAMONDS, FOUR of SPADES, QUEEN of CLUBS, 
+
+111 has lost, which means 222 is the winner!
