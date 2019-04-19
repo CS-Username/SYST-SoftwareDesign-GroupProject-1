@@ -45,7 +45,13 @@ public class GroupOfCards {
      * @return Most recent card
      */
     public Card getMostRecentCard() {
-        Card card = cards.remove(cards.size() - 1);
+        Card card;
+        if (cards.size() != 0) {
+            card = cards.remove(cards.size() - 1);
+        }
+        else {
+            card = null;
+        }
         updateSize();
         return card;
     }
@@ -56,6 +62,7 @@ public class GroupOfCards {
      * @param addedCard Card added
      */
     public void addCard(Card addedCard) {
+        if (addedCard != null)
         cards.add(addedCard);
         updateSize();
     }
