@@ -1,5 +1,13 @@
 Player 1 Enter Your Name: 
+
+Player 1 Enter Your Name: 
 111
+Player 2 Enter Your Name: 
+
+Player 2 Enter Your Name: 
+
+Player 2 Enter Your Name: 
+  
 Player 2 Enter Your Name: 
 222
 --------------------------------------------------
