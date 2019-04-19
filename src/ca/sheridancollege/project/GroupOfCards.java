@@ -82,13 +82,8 @@ public class GroupOfCards {
         if (cards.isEmpty()) {
             printable = "Empty";
         } else {
-            int index = 0;
             for (Card card : cards) {
-                index++;
                 printable += card + ", ";
-//                if (index % 6 == 0) {//adds new line every few cards
-//                    printable += "\n";
-//                }
             }
         }
         return printable;
