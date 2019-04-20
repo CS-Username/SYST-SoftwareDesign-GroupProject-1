@@ -31,7 +31,7 @@ public class GroupOfCardsTest {
         instance.addCard(new Standard(DIAMONDS, ACE));
         instance.addCard(new Standard(SPADES, TEN));
         instance.addCard(new Standard(HEARTS, QUEEN));
-        Card card1 = new Standard(HEARTS, QUEEN);
+        Card card1 = new Standard(CLUBS, JACK);
         int result = (instance.getMostRecentCard()).compareTo(card1);
         int expResult = 0;
         assertEquals(expResult, result);
@@ -173,7 +173,7 @@ public class GroupOfCardsTest {
         instance.addCard(new Standard(SPADES, TEN));
         instance.addCard(new Standard(HEARTS, QUEEN));
         boolean expResult = true;
-        boolean result = instance.toString().equals("4 Cards:\nJACK of CLUBS, ACE of DIAMONDS, TEN of SPADES, QUEEN of HEARTS, ");
+        boolean result = instance.toString().equals("4 Cards:\nQUEEN of HEARTS, TEN of SPADES, ACE of DIAMONDS, JACK of CLUBS, ");
         assertEquals(expResult, result);
     }
     
