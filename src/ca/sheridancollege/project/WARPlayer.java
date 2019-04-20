@@ -10,7 +10,7 @@ public class WARPlayer extends Player{
 
 
     private GroupOfCards playerHand; //Player's hand of cards
-    private GroupOfCards playedHand; //Cards played
+    private GroupOfCards playerPile; //Cards played
 
     
    /**
