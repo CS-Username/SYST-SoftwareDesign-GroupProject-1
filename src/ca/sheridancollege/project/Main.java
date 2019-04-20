@@ -1,16 +1,15 @@
 package ca.sheridancollege.project;
 
 /**
- * Test Game
+ * This class starts WarGame by immediately starting a game.
  * 
  * @author Nawaphan Chayopathum(Jan)
  * @modified Cory Salmon
  */
-public class WarTest {
+public class Main {
     
     public static void main(String[] args) {
         WarGame testGame = new WarGame();
         testGame.play();
-        //System.out.println(testGame);
     }
 }

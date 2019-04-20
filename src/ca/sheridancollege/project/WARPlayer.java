@@ -23,9 +23,6 @@ public class WARPlayer extends Player{
     public Card playCard() {
         if (playerHand.getSize() > 0) {
             return playerHand.getMostRecentCard();
-        } else if (playerHand.getSize() == 0) {
-            changeGroupOfCards();
-            return playerHand.getMostRecentCard();
         }
         return null;
     }

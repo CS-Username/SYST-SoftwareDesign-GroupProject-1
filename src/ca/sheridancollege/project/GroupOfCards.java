@@ -63,7 +63,7 @@ public class GroupOfCards {
      */
     public void addCard(Card addedCard) {
         if (addedCard != null)
-        cards.add(addedCard);
+        cards.add(0,addedCard);
         updateSize();
     }
 
