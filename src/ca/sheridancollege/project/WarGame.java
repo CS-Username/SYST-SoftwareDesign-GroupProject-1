@@ -12,7 +12,7 @@ public class WarGame extends Game {
 
     private WARPlayer player1;
     private WARPlayer player2;
-    
+
     private final String line = "--------------------------------------------------";
 
     /**
@@ -38,7 +38,7 @@ public class WarGame extends Game {
         Scanner scan = new Scanner(System.in);
         String name;
         do {
-            System.out.println(genericPlayer+" Enter Your Name: ");
+            System.out.println(genericPlayer + " Enter Your Name: ");
             try {
                 name = scan.nextLine();
             } catch (Exception e) {
@@ -69,7 +69,7 @@ public class WarGame extends Game {
             player1.collectCard(gameDeck.getMostRecentCard());
             player2.collectCard(gameDeck.getMostRecentCard());
         }
-        //create the pile for each player
+        //fill the hands of each player
         player1.changeGroupOfCards();
         player2.changeGroupOfCards();
         printPlayerHands();
@@ -101,6 +101,9 @@ public class WarGame extends Game {
             } else { //war
                 war(card1, card2);
             }
+            //players put new cards at the buttom of their decks
+            player1.changeGroupOfCards();
+            player2.changeGroupOfCards();
         }
         //when 1 player has no more cards, a declaration i announced
         declareWinner();
@@ -122,8 +125,8 @@ public class WarGame extends Game {
     /**
      * This method models the war mode of play. First, it checks to see if both
      * players have enough cards to play the game. If they do not, we have the
-     * winner and end war mode and the game. Otherwise, war mode proceeds. The player
-     * that has the higher value will win this war.
+     * winner and end war mode and the game. Otherwise, war mode proceeds. The
+     * player that has the higher value will win this war.
      *
      * @param player1MatchingCard card from player1 with the same rank as
      * player2
